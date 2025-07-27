@@ -15,4 +15,6 @@ This command-line application reads YouTube comment sentiment predictions from a
 
 ---
 
+If you can't download the CVS file heres a link to it https://www.dropbox.com/scl/fi/qc1945h3aii8iq9ygn40v/YTSentimentPredictions.csv?rlkey=bq4rk6kt4kn7kor723vufczua&e=2&st=iwror95d&dl=0
+
 <img width="1096" height="564" alt="image" src="https://github.com/user-attachments/assets/203fe9e5-3245-4168-9dc5-f2a064b12d55" />
