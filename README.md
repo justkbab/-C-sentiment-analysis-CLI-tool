@@ -1,4 +1,4 @@
-# YouTube Comment Sentiment Analyzer (C++)
+# YouTube Comment Sentiment Analyzer 
 
 This command-line application reads YouTube comment sentiment predictions from a CSV file and allows users to:
 
