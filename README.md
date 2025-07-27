@@ -15,3 +15,4 @@ This command-line application reads YouTube comment sentiment predictions from a
 
 ---
 
+<img width="1096" height="564" alt="image" src="https://github.com/user-attachments/assets/203fe9e5-3245-4168-9dc5-f2a064b12d55" />
